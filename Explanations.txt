@@ -1,0 +1,2 @@
+1- async: When put infront of a funtion in javascript, it means that the compiler has to wait for the end of the execution of 
+the function before continuing the code. 
